@@ -1,0 +1,6 @@
+Settings = {
+  Name = "RSI Simple",
+Period = 14
+Color =RGB(0, 128, 255),
+Width = 2
+}
